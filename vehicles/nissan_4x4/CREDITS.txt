@@ -1,0 +1,5 @@
+Nissan 4x4 by Gabee
+https://sketchfab.com/3d-models/nissan-4x4-9d39d85373e14f54a02b95f0e2852546
+License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Modified for Yuno: rotated so the front is +Z, scaled to real size (about 5.0 m long), origin on the ground in the middle of the wheelbase,
+wheels split per corner (tire_xx / Rim_xx) with straightened axles, body split into Body_Paint / Body_Trim / Body_Glass, textures compressed.
