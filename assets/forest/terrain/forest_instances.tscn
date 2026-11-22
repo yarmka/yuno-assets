@@ -1,5 +1,5 @@
 [gd_scene format=3]
-[ext_resource type="Script" path="res://terrain/ForestInstances.gd" id="1_fi"]
+[ext_resource type="Script" path="res://assets/forest/terrain/ForestInstances.gd" id="1_fi"]
 
 [sub_resource type="MultiMesh" id="MultiMesh_0"]
 transform_format = 1
@@ -120,76 +120,76 @@ script = ExtResource("1_fi")
 
 [node name="pine_1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_0")
-metadata/source_scene = "res://res://env models/plants/tree/scene/pine_1.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/pine_1.tscn"
 
 [node name="pine_2" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_1")
-metadata/source_scene = "res://res://env models/plants/tree/scene/pine_2.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/pine_2.tscn"
 
 [node name="pine_3" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_2")
-metadata/source_scene = "res://res://env models/plants/tree/scene/pine_3.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/pine_3.tscn"
 
 [node name="grass main" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_3")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass main.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass main.tscn"
 
 [node name="main grass 1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_4")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/main grass 1.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/main grass 1.tscn"
 
 [node name="maple_1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_5")
-metadata/source_scene = "res://res://env models/plants/tree/scene/maple_1.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/maple_1.tscn"
 
 [node name="maple_2" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_6")
-metadata/source_scene = "res://res://env models/plants/tree/scene/maple_2.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/maple_2.tscn"
 
 [node name="maple_3" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_7")
-metadata/source_scene = "res://res://env models/plants/tree/scene/maple_3.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/tree/scene/maple_3.tscn"
 
 [node name="grass_1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_8")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass_1.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass_1.tscn"
 
 [node name="grass_2" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_9")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass_2.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass_2.tscn"
 
 [node name="grass_3" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_10")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass_3.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass_3.tscn"
 
 [node name="grass_4" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_11")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass_4.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass_4.tscn"
 
 [node name="grass_5" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_12")
-metadata/source_scene = "res://res://env models/plants/grass/scenes/grass_5.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/grass/scenes/grass_5.tscn"
 
 [node name="bush_1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_13")
-metadata/source_scene = "res://res://env models/plants/bush/scenes/bush_1.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/bush/scenes/bush_1.tscn"
 
 [node name="bush_2" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_14")
-metadata/source_scene = "res://res://env models/plants/bush/scenes/bush_2.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/bush/scenes/bush_2.tscn"
 
 [node name="bush_3" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_15")
-metadata/source_scene = "res://res://env models/plants/bush/scenes/bush_3.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/bush/scenes/bush_3.tscn"
 
 [node name="bush_4" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_16")
-metadata/source_scene = "res://res://env models/plants/bush/scenes/bush_4.tscn"
+metadata/source_scene = "res://assets/forest/env/plants/bush/scenes/bush_4.tscn"
 
 [node name="small rock 1" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_17")
-metadata/source_scene = "res://res://env models/rocks/scenes/small rock 1.tscn"
+metadata/source_scene = "res://assets/forest/env/rocks/scenes/small rock 1.tscn"
 
 [node name="small rock 3" type="MultiMeshInstance3D" parent="."]
 multimesh = SubResource("MultiMesh_18")
-metadata/source_scene = "res://res://env models/rocks/scenes/small rock 3.tscn"
+metadata/source_scene = "res://assets/forest/env/rocks/scenes/small rock 3.tscn"
